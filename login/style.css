@@ -1,0 +1,70 @@
+* {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  body {
+    background: linear-gradient(
+      180deg,
+      #0f0c29 -11.94%,
+      #302b63 51.32%,
+      #24243e 113.28%
+    );
+  }
+  
+  .paragrafo {
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 23px;
+    margin-top: 25px;
+    text-align: center;
+    color: white;
+  }
+  h1 {
+    font-size: 34px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    margin-top: 165px;
+  }
+  
+  input {
+    width: 342px;
+    height: 74px;
+    margin-bottom: 18px;
+    font-weight: 500;
+    font-size: 17px;
+    padding-left: 26px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    outline: none;
+  }
+  
+  button {
+    display: block;
+    width: 342px;
+    height: 74px;
+    border: none;
+    margin-left: auto;
+    margin-right: auto;
+    background: black;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 2px;
+    color: white;
+  }
+  
+  button:active {
+    opacity: 0.6;
+    cursor: pointer;
+  }
+  
+  a {
+    margin-top: 140px;
+    display: block;
+    text-align: center;
+    font-size: 14px;
+    color: white;
+    cursor: pointer;
+  }
+  

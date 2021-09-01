@@ -1,0 +1,72 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background: #302B63;
+}
+
+p {
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.75);
+    margin-top: 74px;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 34px;
+    line-height: 40px;
+    text-align: center;
+    color: white;
+    margin-top: 174px;
+}
+
+input {
+    width: 280px;
+    height: 74px;
+    margin-bottom: 18px;
+    margin-left: auto;
+    margin-right: auto;
+    background: white;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 20px;
+    padding-left: 53px;
+    display: block;
+    outline: none;
+    color: rgba(0, 0, 0, 0.6);
+}
+
+button {
+    width: 340px;
+    height: 74px;
+    margin-top: 18px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border: none;
+    background: black;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 2px;
+    color: white;
+}
+
+button:active {
+    cursor: pointer;
+    opacity: 0.6;
+}
+
+a {
+    margin-top: 70px;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    display: block;
+    text-align: center;
+    color: white;
+    cursor: pointer;
+}
